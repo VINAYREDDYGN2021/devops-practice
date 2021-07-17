@@ -5,4 +5,4 @@
 * shift insert -----copy
 * ctrl insert--------paste
 * ctrl l-------------clear the screen 
-* add some more
+* i deleted one line
