@@ -6,3 +6,4 @@
 * ctrl insert--------paste
 * ctrl l-------------clear the screen 
 * i deleted one line
+* i added one more line
