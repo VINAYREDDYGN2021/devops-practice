@@ -1,0 +1,8 @@
+* ctrl k ----------cut the text after cursor
+* ctrl u-----------cut the text before cursor 
+* ctrl y------------paste
+* arrow up ---------move to previous command 
+* shift insert -----copy
+* ctrl insert--------paste
+* ctrl l-------------clear the screen 
+*
