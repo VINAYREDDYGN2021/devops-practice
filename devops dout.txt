@@ -1,1 +1,2 @@
 * i cannot change cd to folder in desktop 
+* now move from remote repositary to local repositary 
